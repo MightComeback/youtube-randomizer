@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "uZ-8ZYsP4iOIgv6ZRGZFBsdhlPY",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "UA",
+  "pageInfo": {
+    "totalResults": 367260,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8rpZPpSe8hOBj_eWfaxFmKMm5Uc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jv50vHHwWY0"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-27T09:00:35Z",
+        "channelId": "UCuTaETsuCOkJ0H_GAztWt0Q",
+        "title": "What’s The Difference Between GRX &amp; Road Groupsets?",
+        "description": "When buying a new bike, there are a lot of choices to make, one of which is choosing what kind of groupset you want. If you want ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jv50vHHwWY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jv50vHHwWY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jv50vHHwWY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Global Cycling Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-27T09:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Fz7ZepGZ0DXybnArH9y09JPsF8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U31BzIYSaac"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-17T08:00:07Z",
+        "channelId": "UCvG5SnItNhJc22MWFy2XAVQ",
+        "title": "Группа Shimano GRX - краткий ликбез от Ультраспорт",
+        "description": "Группа компонентов Shimano GRX для гравийных велосипедов выделена отдельной линейкой и есть ряд нюансов, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U31BzIYSaac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U31BzIYSaac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U31BzIYSaac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ultrasport",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-17T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a67g9ZLzKfKS--FGnk1zV063Jtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b3884qGv_JE"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-27T09:00:04Z",
+        "channelId": "UCuTaETsuCOkJ0H_GAztWt0Q",
+        "title": "Shimano GRX Detailed &amp; Demoed | The First Gravel Specific Groupset",
+        "description": "Shimano GRX is the first cycling groupset dedicated to gravel and off-road riding. GRX takes the best features of Shimano's road ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b3884qGv_JE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b3884qGv_JE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b3884qGv_JE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Global Cycling Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-27T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qsGs9UFPJtMTTMHZ8ZHiZMLe050",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZlRBwsTPCcI"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-14T13:00:09Z",
+        "channelId": "UCYmE0wn3fu8e_6AVLzWEp6g",
+        "title": "Обзор группы SHIMANO GRX трансмиссия тормоза ротора колеса",
+        "description": "Каталог GRX в нашем магазине https://bike-market.com.ua/komponenti-shimano-grx/ Скидка -5% на все товары Промокод: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlRBwsTPCcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlRBwsTPCcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlRBwsTPCcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bike Market",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-14T13:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VFvs8R4xowJ97rCvBO5wt41DDkQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UbjVJTfugLY"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-14T17:12:52Z",
+        "channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
+        "title": "Shermanology &amp; GRX - Can&#39;t You See (Official Music Video)",
+        "description": "Shermanology teamed up with GRX to bring you the COLOSSAL 'Can't You See'. Grab your copy NOW : http://btprt.dj/1qCasLx ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UbjVJTfugLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UbjVJTfugLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UbjVJTfugLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spinnin' Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-14T17:12:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AAK0P1b2sFE1u-syG11hj1KDEW0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MFTKpI_7x2I"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-11T09:00:07Z",
+        "channelId": "UCZekTmUMBBX2rMjYSB0Hh0g",
+        "title": "Апгрейд Shimano GRX Tiagra upgrade",
+        "description": "Друзья, в этом выпуске вы увидите как можно дешево и эффективно проапгрейдить свой гравийник новой перекидкой ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MFTKpI_7x2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MFTKpI_7x2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MFTKpI_7x2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "033 - пригоди, огляди, велосипеди",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-11T09:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hbKIlvd-ZO63iOxWsgG4H8_zfJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-P54ruluvBM"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-02T12:00:01Z",
+        "channelId": "UCybgi4WCjGaoEEVjB7tBfCg",
+        "title": "Shimano GRX 1x Vs 2x - Which is best for your gravel bike?",
+        "description": "One chainring or two, that is a question I get asked loads. So in this video with the help of two Shimano GRX-equipped bikes, I've ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-P54ruluvBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-P54ruluvBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-P54ruluvBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "David Arthur - Just Ride Bikes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-02T12:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NfktxQ07nbu6xoGfX9G_pdDlblg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j8GSRFS-8tc"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-13T03:54:31Z",
+        "channelId": "UCB-7IEpKGIdXkgGUObE5D5A",
+        "title": "Brooks &amp; GRX - Boomerang (Official Video)",
+        "description": "Brooks & GRX - Boomerang Spotify: http://stmpd.co/BRs Apple Music: http://stmpd.co/BRam iTunes: http://stmpd.co/BRi Subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j8GSRFS-8tc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j8GSRFS-8tc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j8GSRFS-8tc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STMPD RCRDS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-13T03:54:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IlkLCY8a4XW6p4a-L9Og_jdNyVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DMd3kuzRfEE"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-29T13:00:08Z",
+        "channelId": "UC4EydOIfMUaISkGQ_wmuAqQ",
+        "title": "Shimano GRX. Service. Manual. Прокачка обслуживание",
+        "description": "Прокачка обслуживание тормозов Shimano GRX.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DMd3kuzRfEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DMd3kuzRfEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DMd3kuzRfEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Velo Mania",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-29T13:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "onQ1PaDTHWIkxs2XQT3bsw9eSo0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rTt9AscnpeU"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-29T16:39:02Z",
+        "channelId": "UCB-7IEpKGIdXkgGUObE5D5A",
+        "title": "Florian Picasso &amp; GRX - Far Away (Official Video)",
+        "description": "Florian Picasso & GRX - Far Away (Official Video) Listen / Download: http://stmpd.co/RMgnXxZeID Florian Picasso teams up with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rTt9AscnpeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rTt9AscnpeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rTt9AscnpeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STMPD RCRDS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-29T16:39:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TjKnp7wGIcDt3n2Hs4yr8b6hykE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UX-3SnRaRkU"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-04T15:53:23Z",
+        "channelId": "UCmj4lbRPGjjGiYh2EmsPmFQ",
+        "title": "Shimano GRX cвоими руками без выпечки за 5 минут!",
+        "description": "В этом видео немного о том , как работает задний переключатель и чем обусловлена совместимость шифтеров и ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UX-3SnRaRkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UX-3SnRaRkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UX-3SnRaRkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Веломастерская love.bike",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-04T15:53:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oWr_9qFarrQwpUjYFQjYWMqlLCY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GrX-xzpX6XY"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-21T08:21:10Z",
+        "channelId": "UC8gQK5jHSrVzDXeOFY5Lk_g",
+        "title": "OET Improve Your English | READING",
+        "description": "Week 3 of the Improve Your English challenge* Learn and practise essential strategies to become a better reader in this session ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GrX-xzpX6XY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GrX-xzpX6XY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GrX-xzpX6XY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Official OET",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-21T08:21:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q3bXwMEzS45oHbJ5fMJnsSColvE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8uv0uac9qkA"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-01T07:07:25Z",
+        "channelId": "UC89sENALQzDknJNCl-z70Ew",
+        "title": "Подключение гидравлического дискового тормоза SHIMANO GRX",
+        "description": "МОЙ КАНАЛ https://bit.ly/2OSTLLI Мой instagram - https://bit.ly/2qC7mxm Хочешь помочь каналу? Карта Monobank ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8uv0uac9qkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8uv0uac9qkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8uv0uac9qkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Александр Стерликов",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-01T07:07:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eo5IeKBSj7V0NyplsodfgTd976E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eeO-grX-Yos"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-21T17:30:03Z",
+        "channelId": "UCKCVeAihEfJr-pGH7B73Wyg",
+        "title": "Хорошие вести с Луганщины, ВСУ подходят к Сватово: Жданов дал сводку с передка",
+        "description": "новости\u200b #новостионлайн\u200b #новостиукраины #новини\u200b #свежиеновости\u200b #новостимира #жданов #всу ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eeO-grX-Yos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eeO-grX-Yos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eeO-grX-Yos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "УНІАН",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-21T17:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sgP1TfyJapSX1N3O1UeJaIDEVy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "27JjiLjkZIU"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-13T07:44:56Z",
+        "channelId": "UCyqHEiaxXduKUIMEqhICDRA",
+        "title": "Что лучше? Shimano 105 старой школы или современный GRX",
+        "description": "Забрал под восстановление сломаный переключатель shimano GRX Что из этого выйдет, смотрите в следующей серии.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/27JjiLjkZIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/27JjiLjkZIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/27JjiLjkZIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wheels of the soul Велосипедные Новости",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-13T07:44:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2ohJsh6avFR89J-ggiejCh08fGM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gIGSN_W9uhY"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-08T01:03:27Z",
+        "channelId": "UCCiUYN_71bok-UomXMWNIXQ",
+        "title": "Como Instalar e configurar o Indicador GRX",
+        "description": "Faça o seu cadastro e entre no nosso grupo VIP do WhatsApp: https://www.indicadorgrx.com.br/grx.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gIGSN_W9uhY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gIGSN_W9uhY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gIGSN_W9uhY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gabriel Stroppa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-08T01:03:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GLjSkJ5_ss5Ae3UIjzCr0kQtM08",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8u68g06Tzew"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-24T14:03:08Z",
+        "channelId": "UCT3LuopJjwYEFkSgOXjG0Pg",
+        "title": "Yellow Claw &amp; GRX &amp; Cesqeaux - Psycho",
+        "description": "Christmas time is presents time! FREE DOWNLOAD: http://goo.gl/lJIhtS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8u68g06Tzew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8u68g06Tzew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8u68g06Tzew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Yellow Claw",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-24T14:03:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NuVa1_V7x39J_kiP_5peGnPPRZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yGxocoj2Kk0"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-19T15:24:47Z",
+        "channelId": "UCyrQSvn6_25rINepVZ6H0qQ",
+        "title": "Shimano GRX Gravel Groupset SUPER In-Depth Review | 2× Ain’t Dead",
+        "description": "Our Senior Writer, Matthew Loveridge talks you through everything you need to know about the Shimano GRX gravel specific ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yGxocoj2Kk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yGxocoj2Kk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yGxocoj2Kk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BikeRadar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-19T15:24:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G2u48eIULAv-vaXRtQ2Wo4zguww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EqI2rr9BarI"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-04T13:30:01Z",
+        "channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
+        "title": "Bassjackers &amp; GRX - Gamer (Original Mix)",
+        "description": "Bassjackers & GRX present Gamer. Grab your copy on Beatport NOW : http://btprt.dj/1gmxa6w Subscribe to Spinnin' TV here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqI2rr9BarI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqI2rr9BarI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqI2rr9BarI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spinnin' Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-04T13:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N_THuWlMzdLqHcsyYkMaILw3vfo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C4z3Kt9S5sQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-15T21:09:22Z",
+        "channelId": "UClAOWwvev4wobp011-lHAUQ",
+        "title": "Shimano GRX RD-RX812 with an 11-46 Cassette. Will this work? Low Gearing on a Gravel Bike.",
+        "description": "Officially the GRX RD-RX812 doesn't support cassettes larger than 11-42. However, it is not uncommon for the derailleur to work ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C4z3Kt9S5sQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C4z3Kt9S5sQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C4z3Kt9S5sQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Geared For Adventure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-15T21:09:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LCKfXpfXiRAh0Fmtk12hulpnfTg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j-Hfufh-ne4"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-17T15:16:28Z",
+        "channelId": "UCB-7IEpKGIdXkgGUObE5D5A",
+        "title": "Florian Picasso &amp; GRX - Restart Your Heart (Official Video)",
+        "description": "Florian Picasso & GRX - Restart Your Heart Listen / Download: http://stmpd.co/C3sqeID The long awaited Florian Picasso and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j-Hfufh-ne4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j-Hfufh-ne4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j-Hfufh-ne4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STMPD RCRDS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-17T15:16:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ht-bU1V4nagJf2a-TjgzkN5JfPE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UjTHsnDxRYg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T15:08:36Z",
+        "channelId": "UCyrQSvn6_25rINepVZ6H0qQ",
+        "title": "NEW Shimano GRX… Wish List! | 5 Things We Want in 2023",
+        "description": "Listen to the BikeRadar Podcast → https://www.bikeradar.com/bikeradar-podcast/ Follow BikeRadar on our social media ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UjTHsnDxRYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UjTHsnDxRYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UjTHsnDxRYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BikeRadar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T15:08:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2OYS6BhsHZcJz4S3Ixuz_WXqsNs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F8VPSeVS2Aw"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-31T15:41:19Z",
+        "channelId": "UC8m6X3q3H5tIwWMHZXwVm0Q",
+        "title": "GRX + GARBARUK  per la mia Triban 900 Ti",
+        "description": "GRX + GARBARUK per la mia Triban 900 Ti, per avere migliori prestazioni e un'estetica originale, guida al montaggio.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F8VPSeVS2Aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F8VPSeVS2Aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F8VPSeVS2Aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Massimo Vergnano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-31T15:41:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PC829W3cCs9goGvGvvCxD4TyApg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UuoZYBAFtcs"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-23T00:00:06Z",
+        "channelId": "UCF0VhdCh2fD1V7Ol2RCdgqQ",
+        "title": "シマノコンポーネントＧＲＸゆっくり解説！！ＧＲＸってどんなコンポ？",
+        "description": "シマノコンポーネントＧＲＸゆっくり解説です。グラベル系のコンポって売り出していますけど、拡張性がえぐいです。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UuoZYBAFtcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UuoZYBAFtcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UuoZYBAFtcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ゆるぽたLife",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-23T00:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CYFzg36yvOVe8Um1MIokH0Lv8_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NwF-v_UEL7E"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T22:42:36Z",
+        "channelId": "UCCiUYN_71bok-UomXMWNIXQ",
+        "title": "A Melhor Ferramenta de Day Trade | Indicador GRX",
+        "description": "Essa é a melhor ferramenta para ganhar dinheiro com day trade! ✓Me chame no WhatsApp ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NwF-v_UEL7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NwF-v_UEL7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NwF-v_UEL7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gabriel Stroppa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T22:42:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GD_NMu2AxZ0rWAgLZydMmLGDJnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tTArMv_6NQI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-21T07:17:19Z",
+        "channelId": "UCNKgUcBMIT6PCGFPNsyFu9A",
+        "title": "косяк переключателя GRX 400.",
+        "description": "косяк или не косяк? и на что он влияет. полное видео уже на канале.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tTArMv_6NQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tTArMv_6NQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tTArMv_6NQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "About The Frame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-21T07:17:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GBNLppsgYtkQHMXUgvfmqP779qc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a28-cW9puSY"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-18T20:55:53Z",
+        "channelId": "UCKYS6ajrNo932AGe47kQLSg",
+        "title": "Gravel Cycling Groups: Shimano GRX v SRAM XPLR AXS v Campagnolo Ekar",
+        "description": "All three major cycling component companies now have gravel-speciifc groupsets. Which is best, and why? After riding and racing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a28-cW9puSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a28-cW9puSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a28-cW9puSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Ride with Ben Delaney",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-18T20:55:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0tTw_OUtzGh1r_yv5iyhdoiuPbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_JHlknYPIH0"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-05T01:04:31Z",
+        "channelId": "UCIjF-lnNODWwyivMDPxQe7g",
+        "title": "Why I switched from SRAM AXS electronic to Shimano GRX mechanical",
+        "description": "In this video I describe why I got rid of my SRAM AXS groupset in favor of Shimano GRX mechanical. Apologies in advance for the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JHlknYPIH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JHlknYPIH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JHlknYPIH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pedaling Prime Mover",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-05T01:04:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bB08R1bRF4gdXerxAPlBeyzYq6w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mxsE-5rjBJI"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-27T15:01:46Z",
+        "channelId": "UCwyzkzEt7D8sqbQNYNKuQSA",
+        "title": "K cha @Cr7 HORAA  (18+) GRx",
+        "description": "GRx (GURKHA) welcomes you to our LIVE-STREAM done by GRxcr7Horaa! cr7horaa is our newest content-creator, who will be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mxsE-5rjBJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mxsE-5rjBJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mxsE-5rjBJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GRx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-27T15:01:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RLaGE0m8LUTWhVHyC50LCiiHZoU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v_SWWkScGlE"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-23T16:18:02Z",
+        "channelId": "UCuxm7QEcD8PNsmH4ytdUZiA",
+        "title": "Dream build, Marin Nicasio 2 x Shimano GRX",
+        "description": "Marin Nicasio Two Size: 56cm Spec GRX Di2 1x11 Components Front: 40T Rear: 11-34T Fork: Fox 32 TC 30mm Seatpost: Fox ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v_SWWkScGlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v_SWWkScGlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v_SWWkScGlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gravel biking in Taiwan marshhuang",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-23T16:18:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xarr-PYP_9lRj5_jdmqV4r3EQ4o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pjGtf7xpSOU"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T15:00:22Z",
+        "channelId": "UCB-7IEpKGIdXkgGUObE5D5A",
+        "title": "CMC$ &amp; GRX - X&#39;s (feat. Icona Pop)",
+        "description": "CMC$ & GRX - X's (feat. Icona Pop) Listen / Download: http://stmpd.co/CGIXID CMC$ and GRX release their new track X's with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pjGtf7xpSOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pjGtf7xpSOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pjGtf7xpSOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STMPD RCRDS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T15:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MSDuZSpH9wbywDkWiSIVfN_IDnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rq1wBq6n2Xc"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-24T12:05:08Z",
+        "channelId": "UCgaBWDpNAS2duSZwDoZk-Vw",
+        "title": "Shimano GRX Mechanical 1x &amp; 2x Long Term Review!: The best mechanical groupset for gravel?",
+        "description": "\"Following a multi-year global market study, product testing and development process, Shimano introduce the world's first ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rq1wBq6n2Xc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rq1wBq6n2Xc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rq1wBq6n2Xc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gravel Cyclist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-24T12:05:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1vPfrIVjpDeYuLo7pJBqLc2rMxE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ahujwkmfOkw"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-10T11:51:12Z",
+        "channelId": "UCpQBVjGrCPtDxsSFws4D_7A",
+        "title": "Настройка дуалов Shimano GRX 400",
+        "description": "Расскажу немного о возможности настройки дуалов GRX, а так же о причине не полного контакта на тормозных роторах.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ahujwkmfOkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ahujwkmfOkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ahujwkmfOkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Руки На Баране",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-10T11:51:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DYAZEnpnnqFTAMwfujsNMRJ4bGA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I6MeixyXtdE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-14T07:34:05Z",
+        "channelId": "UCmpfVq9JTkaSLf7VX1nAJ7w",
+        "title": "MTB Gears for Shimano GRX - Garbaruk drivetrain review",
+        "description": "Chapters: 00:00 - Intro 01:48 - Garbaruk meets Shimano GRX 03:40 - Cost and Economics 05:14 - Anodize It 06:07 - Wrapping Up ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I6MeixyXtdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I6MeixyXtdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I6MeixyXtdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ride Adelaide",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-14T07:34:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zohB-l72kiT98bR4z8OQqYU0Bq8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-K1JT8m31J4"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-24T04:45:00Z",
+        "channelId": "UCKST5TJaWK-zxMQDjD4xrDQ",
+        "title": "переключатель SHIMANO GRX RD-RX 400 SGS (rear derailleur 10 speed) 🚴",
+        "description": "RD-RX400 SHIMANO GRX - Rear Derailleur - SHIMANO SHADOW RD+ - 10-speed. With an integrated chain stabilizer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-K1JT8m31J4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-K1JT8m31J4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-K1JT8m31J4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RMA channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-24T04:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b5zBAZNIwPHjKUNMO5oLXQZHZT8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3x4t_jZr8do"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-19T10:23:34Z",
+        "channelId": "UC59yKnPGlOmpy4YQtv8dH-Q",
+        "title": "Building a GRX gravel bike with round-the-world record holder Mark Beaumont | SHIMANO",
+        "description": "Subtitles available! Click on the CC (closed captions) button below the video. You might know Mark Beaumont as the World ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3x4t_jZr8do/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3x4t_jZr8do/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3x4t_jZr8do/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "#RideShimano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-19T10:23:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ltMrge8c-GGb0U2bPYhHP7bDabU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S9iarvvp4Nc"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-14T16:00:30Z",
+        "channelId": "UCUHJDBlpGGvz_ppSZS4C0AQ",
+        "title": "Shimano GRX UMWERFER EINSTELLEN - einfach &amp; schnell - Fahrrad.org",
+        "description": "In diesem Video zeigen wir euch, wie ihr bei einer Shimano GRX Schaltung das Schaltwerk einstellen könnt. Viel Spaß! #shimano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S9iarvvp4Nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S9iarvvp4Nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S9iarvvp4Nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahrrad.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-14T16:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KJA1tGFhR147nkHgKUuVy3-E_F4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mJ7eFA1wZS0"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-01T09:00:14Z",
+        "channelId": "UCqVctRfOyBkmhktbnnOXbTA",
+        "title": "Shimano GRX Gravel-Schaltgruppe, RX800 / RX600 / RX400 Unterschiede &amp; Alle Details!",
+        "description": "Heute stellen wir Euch die Shimano GRX RX800, GRX RX600 und GRX RX400 Schaltgruppen vor. Die Schaltgruppen sind gar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mJ7eFA1wZS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mJ7eFA1wZS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mJ7eFA1wZS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ENJOYYOURBIKE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-01T09:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yEi-vQlpEDwaSTnt1x6ji3OuvmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7kUxmkuJWNg"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-27T04:12:53Z",
+        "channelId": "UCq33TvtwtST8TjFdS_5wzKA",
+        "title": "Modified Shimano GRX RD-RX812 1x11 spd rear derailleur to supports 2x11 spd w/ 11-46T cassette.",
+        "description": "Here are our facebook fan page and twitter. Mybicycleparts FB - https://www.facebook.com/Mybicycleparts-373868869927868/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7kUxmkuJWNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7kUxmkuJWNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kUxmkuJWNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Service Customer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-27T04:12:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LIRonWoiOgsicqpBb16V40Khahs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sRgLG1uP_uo"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-06T12:44:05Z",
+        "channelId": "UCyG8fDB-wIkdjprZD-0TI6Q",
+        "title": "The Ideal Tour Divide Drivetrain? Ultra-Wide Range Shimano GRX 2X11",
+        "description": "In this video you will find out how to achieve a 585%, ultra-wide range 2x11 using an 11-42 cassette with a Shimano GRX 815 or ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sRgLG1uP_uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sRgLG1uP_uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sRgLG1uP_uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BIKEPACKING.com",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-06T12:44:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wxXVO1j8L9qjSim65_Jvo-6NFJw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "87xcagZnWe8"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-02T14:44:15Z",
+        "channelId": "UC17ZDcxSsrlUgQqjMmsJgdQ",
+        "title": "UNBOXING SHIMANO&#39;S BRAND NEW GRX LIMITED EDITION GRAVEL GROUPSET",
+        "description": "Released just a few weeks ago, we unbox the latest limited edition Shimano GRX groupset in brushed and polished finish.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/87xcagZnWe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/87xcagZnWe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/87xcagZnWe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FUSTLE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-02T14:44:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZwpQYlCaQblYu8io7ui0JJnYF-w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0uE6T8ql4Uw"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-31T16:00:00Z",
+        "channelId": "UCUHJDBlpGGvz_ppSZS4C0AQ",
+        "title": "Shimano GRX SCHALTWERK EINSTELLEN - einfach &amp; schnell - Fahrrad.org",
+        "description": "In diesem Video zeigen wir euch, wie ihr bei einer Shimano GRX Schaltung das Schaltwerk einstellen könnt. Viel Spaß! #shimano ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0uE6T8ql4Uw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0uE6T8ql4Uw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0uE6T8ql4Uw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fahrrad.org",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-31T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FoKDYzTmuuZlmtrYCnXdFqNWeic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yANlhkSvmEc"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-19T04:08:54Z",
+        "channelId": "UCgaBWDpNAS2duSZwDoZk-Vw",
+        "title": "Shimano GRX Carbon Gravel Wheels: Preview",
+        "description": "\"Designed for the specific demands of gravel riding, racing, and exploration, Shimano's new GRX carbon tubeless gravel wheels ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yANlhkSvmEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yANlhkSvmEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yANlhkSvmEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gravel Cyclist",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-19T04:08:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "46XZ-cxOgisS8Tk7MKmg6nRvjr0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s5tRIile7L4"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-07T15:00:11Z",
+        "channelId": "UC59yKnPGlOmpy4YQtv8dH-Q",
+        "title": "Introducing GRX gravel components | SHIMANO",
+        "description": "Shimano's new GRX is the World's First Dedicated Gravel Component Series with drivetrain and ergonomic options that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s5tRIile7L4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s5tRIile7L4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s5tRIile7L4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "#RideShimano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-07T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rf0EnPpAdMlLS-kzahaO0YAzZc4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4GJ6uFnsD6k"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-20T09:00:01Z",
+        "channelId": "UC710HJmp-YgNbE5BnFBRoeg",
+        "title": "GCN Tech Unboxing: Shimano GRX Di2 Groupset",
+        "description": "In this amazing GCN Tech unboxing we're taking a look at the new Shimano GRX. Shimano's groupset dedicated to gravel bikes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4GJ6uFnsD6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4GJ6uFnsD6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4GJ6uFnsD6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GCN Tech",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-20T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9AbFkcWL5luSiZtEVFtYJeffPH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jDB9Y1vdQcQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-01T16:30:01Z",
+        "channelId": "UCU773wwAl37oBGXR8azxF9A",
+        "title": "Shimano GRX | First ride impressions",
+        "description": "Dave traveled to Germany to try the latest groupset from Shimano. Check out our other channels; Instagram - @road.cc Twitter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jDB9Y1vdQcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jDB9Y1vdQcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jDB9Y1vdQcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "road.cc",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-01T16:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vc-o_n1_Ybj49XoHvDMqKVsbShw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "71PgvwolgEE"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-21T00:58:56Z",
+        "channelId": "UCb2HVtaRfzooR9ApoapiAjQ",
+        "title": "Shimano GRX 800 1x11 with an XT 11-46 cassette",
+        "description": "Just showing that the GRX 1x11 drivetrain does work with an 11-46 out of the box, I did no extra modifications.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/71PgvwolgEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/71PgvwolgEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/71PgvwolgEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rafael Malmegrin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-21T00:58:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y9hv4cpO_1USes5D11Fds-BbjN4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B1EbfJo_d_k"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-11T09:04:38Z",
+        "channelId": "UCi0mqeM9xyDYus-Mn2vUKYg",
+        "title": "Bikeshow.cc doradza, jaką wersję napędu SHIMANO GRX wybrać",
+        "description": "W tym filmie Jan Piątkiewicz z kanału @bikeshowcc opowie o kilku wersjach napędu zaprojektowanego do rowerów typu gravel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B1EbfJo_d_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B1EbfJo_d_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B1EbfJo_d_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shimano Bike Polska",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-11T09:04:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GUSfdvB_ft9aS3xWMhJQzd90Ghw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1rPn1n6AuUc"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-28T05:00:02Z",
+        "channelId": "UCraegaMRs5e_dIMcHdtnLwA",
+        "title": "E-pisode 675 : Concept SHIMANO GRX",
+        "description": "E-pisode 675 : Concept SHIMANO GRX Si vous cherchez à aller au bout du monde à défaut de faire le tour du monde en mode ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1rPn1n6AuUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1rPn1n6AuUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1rPn1n6AuUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MILLET Racing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-28T05:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AvbBiU6EOUtkUFKk1tRPZfaeLOQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pdxi6UmkR7M"
+      },
+      "snippet": {
+        "publishedAt": "2022-02-05T17:25:34Z",
+        "channelId": "UCsi39SjtW6byr_r4EQ5Luag",
+        "title": "Shimano GRX Derailleur - Wheel Removal",
+        "description": "On the Orbera Terra the GRX derailleur is tight. In this video I show I remove the rear wheel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pdxi6UmkR7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pdxi6UmkR7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pdxi6UmkR7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Joseph",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-02-05T17:25:34Z"
+      }
+    }
+  ]
+}
